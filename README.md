@@ -1,3 +1,4 @@
+![GitHub](https://img.shields.io/badge/license-MIT-blue.svg)
 # learning-javascript
 Мои решения задач с CodeWars и учебные проекты. Здесь я учусь писать код, делаю рефакторинг и изучаю JavaScript.
 
