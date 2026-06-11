@@ -28,8 +28,9 @@
 | 1 | Вывод чётных чисел | [even-numbers.js](practice/even-numbers.js) | 11.06.2026 | ⭐ |
 | 2 | Треугольник из звёздочек | [triangle.js](practice/triangle.js) | 11.06.2026 | ⭐⭐ |
 | 3 | Возраст отца и сына | [father-son.js](practice/father-son.js) | 11.06.2026 | ⭐⭐ |
+| 4 | Сумма цифр числа | [sum-of-digits.js](practice/sum-of-digits.js) | 11.06.2026 | ⭐ |
 
-**Итого:** 3 задачи
+**Итого:** 4 задачи
 
 ## Как запустить
 
