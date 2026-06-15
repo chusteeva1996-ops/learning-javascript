@@ -33,6 +33,12 @@
 
 **Итого:** 5 задачи
 
+## 🏆 Решения CodeWars
+
+| Задача | Сложность | Решение |
+|--------|-----------|---------|
+| BMI Calculator | 8kyu | [bmi-calculator.js](codewars/8kyu-bmi-calculator.js) |
+
 ## Как запустить
 
 ```bash
