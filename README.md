@@ -38,6 +38,7 @@
 | Задача | Сложность | Решение |
 |--------|-----------|---------|
 | BMI Calculator | 8kyu | [bmi-calculator.js](codewars/8kyu-bmi-calculator.js) |
+| MakeUpperCase | 8kyu | [make-uppercase.js](codewars/8kyu-make-uppercase.js) |
 
 ## Как запустить
 
