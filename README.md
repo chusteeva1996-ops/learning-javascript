@@ -40,6 +40,7 @@
 | BMI Calculator | 8kyu | [bmi-calculator.js](codewars/8kyu-bmi-calculator.js) |
 | MakeUpperCase | 8kyu | [make-uppercase.js](codewars/8kyu-make-uppercase.js) |
 | Who ate the cookie? | 8kyu | [who-ate-the-cookie.js](codewars/8kyu-who-ate-the-cookie.js) |
+| Reversed Strings | 8kyu | [reversed-strings.js](codewars/8kyu-reversed-strings.js) |
 
 ## Как запустить
 
