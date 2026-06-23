@@ -41,6 +41,7 @@
 | MakeUpperCase | 8kyu | [make-uppercase.js](codewars/8kyu-make-uppercase.js) |
 | Who ate the cookie? | 8kyu | [who-ate-the-cookie.js](codewars/8kyu-who-ate-the-cookie.js) |
 | Reversed Strings | 8kyu | [reversed-strings.js](codewars/8kyu-reversed-strings.js) |
+| What day? | 8kyu | [what-day.js](codewars/8kyu-what-day.js) |
 
 ## Как запустить
 
